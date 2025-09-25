@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotendv from 'dotenv';
-import todoRoutes from './Routes/todos.js';
+import todoRoutes from './routes/todos.js';
 
 
 dotendv.config();
